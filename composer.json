@@ -1,5 +1,5 @@
 {
-	"name": "ipunkt/IconPDF",
+	"name": "ipunkt/iconpdf",
 	"version": "0.1",
 	"description": "IconPDF is a PHP wrapper for tcpdf to pdflib.",
 	"keywords": ["PDF","tcpdf","pdflib"],
