@@ -10,8 +10,8 @@
     		"tecnickcom/tcpdf": "^6.2.13"
 	},
 	"autoload": {
-		"classmap": [
-		"IconPDF.php"
+		"files": [
+			"IconPDF.php"
 		]
 	}
 }
